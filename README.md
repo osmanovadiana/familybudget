@@ -20,7 +20,7 @@
 *[Miro](https://miro.com/app/board/uXjVOFN7XPg=/)
 
 ##  Техническое задание
-(https://github.com/osmanovadiana/familybudget/blob/main/familybudget.pdf)
+*[ТЗ](https://github.com/osmanovadiana/familybudget/blob/main/familybudget.pdf)
 
 
 
